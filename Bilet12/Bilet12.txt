@@ -1,0 +1,29 @@
+https://preview.colorlib.com/#server
+
+Yuxarida verilen linkə daxil olacaqsiz.Sizə verilən şəkildəki hissələri yazacaqsiz.
+
+
+Yuxarida verilen linkə daxil olacaqsiz.Sizə verilən şəkildəki hissələri yazacaqsiz.
+
+Layihə Tələblər:
+  - Home və Add səhifələri React ilə yığılacaq.
+  Front-end tərəfdə tələb olunanlar
+    - Routing
+    - Formik-Yup tələb olunur
+    - Helmet
+    - Filter by Price
+  Back-end hissəsində tələb olunanlar
+    - MongoDB Configuration - CRUD (GET,POST,DELETE) - with Node(ExpressJS)
+Əlavələr:
+  - Scss istifadəsi
+  - Detail Page
+  - Wishlist Page
+     - Add to Wishlist
+     - Delete product from Wishlist
+  - Responsive Page 
+  - Search by Name
+Qeyd:Qara çərçivədəki section CRUD yazacaqsiz.Add page`ində isə navbar footer və form
+olacaq.Add pagedəki formu Formik - Yup ilə yazacaqsız.Form ilə input doldurulub submit
+olunduqda datalar mongodb əlavə olacaq.Home page`də CRUD olan datalara əlavə olaraq
+delete buttonu vəya icon əlavə edin.Cardlara elave olaraq price yazacaqsiz.Bir Filter buttonu elave edib
+Price gore sort edeceksiz.
